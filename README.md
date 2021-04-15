@@ -17,7 +17,7 @@ challenging business problems end to end along with deployment onto cloud.
 - Classification
 - Clustering
 - Anomaly Detection
-- Similarity Measure
+- Text Classification
 - Deep Learning
 - Blogging
 
