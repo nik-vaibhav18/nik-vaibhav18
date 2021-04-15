@@ -7,9 +7,9 @@
 - 💻👀 A Data Science enthusiast having knowledge of *data extraction*, *data processing*, and *predictive modelling* to solve 
 challenging business problems end to end along with deployment onto cloud.
 - 👨🏽‍💻 Currently growing my skillset in *Deep Learning* and *NLP*
-- 💻👨 A Computer Science graduate
+- 💻👨 Computer Science Graduate with specialization in Oil and Gas Informatics accredited by <a href="https://www.credly.com/badges/172ea3b5-2841-480a-8c12-8d41d0248687" target="\_blank"> IBM </a>
 - 🌱 I’m currently learning how to be amazing!!!!
-- 💞️ I’m looking to collaborate on anyhting you want to me to wrangle upon...
+- 💞️ I’m looking to collaborate on anything you want to me to wrangle upon...
 - 📫 You can always write me on nik.vaibhav18@gmail.com 
 
 **My Reseach Interest**:
