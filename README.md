@@ -12,7 +12,7 @@ challenging business problems end to end along with deployment onto cloud.
 - 💞️ I’m looking to collaborate on anything you want to me to wrangle upon...
 - 📫 You can always write me on nik.vaibhav18@gmail.com 
 
-**My Reseach Interest**:
+**My Research Interest**:
 - Regression
 - Classification
 - Clustering
